@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/GameScene.unity
+    guid: f49b7e965f4881a4f9d58a6082bf707d
+  - enabled: 1
     path: Assets/Scenes/Oculus-Passthrough.unity
     guid: 3abdf627a2b29ac41969e06fd6da36b4
   m_configObjects:
